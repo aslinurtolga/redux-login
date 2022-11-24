@@ -1,7 +1,7 @@
 # Project : Redux Login
 ## Visulation of the Website
 
-![image](./login.jpg)
+![image](./reduxlogin.jpg)
 
 ## Description
 
